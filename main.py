@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, jsonify, render_template, reques
 from flask_sqlalchemy import SQLAlchemy
 import random
 
